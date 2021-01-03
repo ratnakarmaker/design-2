@@ -1,0 +1,41 @@
+.nogutter{
+    margin: 0;
+    padding: 0;
+}
+.banner img{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+.des{
+    position: absolute;
+    top: 245px;
+}
+.des img{
+    height: 80px;
+    width: 100px;
+    border-radius: 50%;
+    border: 5px solid white;
+    margin-top: 13px;
+}
+.des-name{
+    color: skyblue;
+}
+
+.details{
+    background-color: beige;
+}
+.details a{
+    text-decoration: none;
+}
+.details-des{
+    padding: 10px;
+}
+.number{
+    background-color: lightskyblue;
+    border-right: 1px solid white;
+}
+.num p{
+    color: white;
+    text-align: center;
+}
